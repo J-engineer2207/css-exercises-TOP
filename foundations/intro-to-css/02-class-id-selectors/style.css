@@ -1,0 +1,21 @@
+.alert-text {
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+}
+
+.alert-text.severe-text {
+    background-colour: pink;
+    font-family: "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
+
+#title _{
+    color: lightblue;
+    font-size: 36px;
+}
+
+.alert-text.more-text {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
